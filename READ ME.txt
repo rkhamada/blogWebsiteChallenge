@@ -1,0 +1,5 @@
+This was a fun project to work on. 
+
+There was a list of challenges that I had to complete, and the end result was the blog website. 
+
+I used Jscript with Node.js and Express. 
